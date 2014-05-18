@@ -2,3 +2,6 @@
 ==================
 
 jQuery use ajax
+
+Front jQuery
+Back Java Servlet
